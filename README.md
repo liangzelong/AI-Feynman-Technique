@@ -48,3 +48,6 @@ ComfyUI 是人工智能的后台，运用数据分析手段来搜集知识体系
 - [ ] 向量数据库分析工具
 - [ ] Agent
 - [ ] LVM
+
+## Acknowledgments
+**基于 InternLM 的 Xtuner 项目，欢迎大家也来参加书生大模型实战营项目**
